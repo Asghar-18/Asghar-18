@@ -27,6 +27,5 @@ I'm a passionate Computer Science undergrad at NUST, fueled by curiosity, creati
 
 - 📧 Email: [asgharali23890@gmail.com](mailto:asgharali23890@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/Asghar18)
-- 💻 [GitHub](https://github.com/Asghar-18)
 
 Thanks for stopping by.
